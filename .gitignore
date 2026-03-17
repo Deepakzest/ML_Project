@@ -1,0 +1,24 @@
+# Python environments
+.venv/
+venv/
+proctor_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and runtime artifacts
+*.log
+*.tmp
+*.bak
+
+# Frontend dependencies/build
+node_modules/
+coding-assessment-frontend/node_modules/
+coding-assessment-frontend/dist/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
